@@ -8,7 +8,7 @@ export function login(data) {
   })
 }
 
-export function loginTest(data) {
+export function loginTest1(data) {
   return request({
     url: '/vue-element-admin/user/login',
     method: 'post',
